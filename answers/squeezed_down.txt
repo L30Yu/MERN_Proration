@@ -1,0 +1,23 @@
+Prompt
+~~~~~~
+
+An angry investor sent us a note about how they keep getting squeezed down to $25K per deal even
+though their requested amount is $100K. Underneath the hood, this was because there's limited
+allocation (low supply) and a high volume of investors looking to invest (high demand). How should
+we communicate this to an investor in a way that minimizes the damage to our relationship with
+the investor?
+
+In addition, can you think of a better way we could change the proration basis logic so that
+this could potentially happen less often?
+
+Response
+~~~~~~~~
+I would gather some stakeholders together when communicating with the angry investor, and always
+keep in mind that it's important to be transparent and empathetic. Try our best to express the reason
+of causing the issue. If we can not directly talk with our investor, we would sending email with 
+details like how we will avoid this issue happen again.
+
+one possible solution could be to implement a tiered system where investors who have consistently 
+invested with the company over a longer period of time receive a higher allocation percentage than 
+newer investors. This could incentivize investors to continue investing with the company and help 
+to build stronger relationships with them. 

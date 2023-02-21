@@ -1,0 +1,24 @@
+Prompt
+~~~~~~
+
+Suppose we discover a bug with our algorithm and investors for two deals had incorrect
+allocations. This means that some of the investors ended up investing more than they were allowed to
+while others invested less than they were allowed to. One of deals happened two years ago and the
+other one happened two weeks ago. Please describe, in detail, how would you go about correcting this
+issue and how would you communicate this to the affected customers.
+
+Response
+~~~~~~~~
+1. Identify which investors were affected, how much they were over or under-allocated, and which deals 
+were impacted. Gather all the data and informations. 
+
+2. By discussing with all the stakeholders to correct the allocations and ensure that investors are allocated 
+the correct amounts going forward. And, in order to continuesly gaining trust from affected investors, we 
+need be transparency.
+
+3. Find the root cause and create Tech Spec document to make sure we have the best solution before we implement
+and update any other potential affected data or investment. 
+
+4. Create Postmortem with the details of why this incident would be happen, how we find it and whats the 
+timeline with details. What actions involved and how were solved it, where we can improve. Whats the following actions
+ 

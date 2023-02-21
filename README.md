@@ -2,13 +2,13 @@
 
 
 ## Part 1 (backend)
-⋅⋅⋅ backend in folder /backend, run with `npm install && npm start`
-⋅⋅⋅ the main calculation in this [ProrationController.js](https://github.com/L30Yu/MERN_Proration/blob/main/backend/controllers/ProrationController.js)
+- backend in folder /backend, run with `npm install && npm start`
+- the main calculation in this [ProrationController.js](https://github.com/L30Yu/MERN_Proration/blob/main/backend/controllers/ProrationController.js)
 
 ## Part 2 (frontend)
-⋅⋅⋅ front end in folder /proration, run with `npm install && npm start`
-⋅⋅⋅ click Submit to post data to backend and get calculation back.
-⋅⋅⋅ click Add to add extra inputs
+- front end in folder /proration, run with `npm install && npm start`
+- click Submit to post data to backend and get calculation back.
+- click Add to add extra inputs
 
 
 <img width="952" alt="Screen Shot 2023-02-20 at 11 53 52 PM" src="https://user-images.githubusercontent.com/12931325/220274887-ef1cb77d-58e9-4d6f-9f19-2bee4f9bfe27.png">
@@ -17,3 +17,24 @@
 
 
 
+
+## Part 3 (writing)
+
+### Discovering a bug
+
+Suppose we discover a bug with our algorithm and investors for two deals had incorrect
+allocations. This means that some of the investors ended up investing more than they were allowed to
+while others invested less than they were allowed to. One of deals happened two years ago and the 
+other one happened two weeks ago. Please describe, in detail, how would you go about correcting this 
+issue and how would you communicate this to the affected customers.
+
+### Squeezed down
+
+An angry investor sent us a note about how they keep getting squeezed down to $25K per deal even
+though their requested amount is $100K. Underneath the hood, this was because there's limited
+allocation (low supply) and a high volume of investors looking to invest (high demand). How should 
+we communicate this to an investor in a way that minimizes the damage to our relationship with 
+the investor? 
+
+In addition, can you think of a better way we could change the proration basis logic so that 
+this could potentially happen less often?   
